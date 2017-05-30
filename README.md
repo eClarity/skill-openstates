@@ -45,7 +45,4 @@ All contributions welcome:
  * Write code
  * Submit merge request
 
-## Licence
-
-See [`LICENCE`](https://gitlab.com/robconnolly/mycroft-home-assistant/blob/master/LICENSE).
 
