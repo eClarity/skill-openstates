@@ -29,7 +29,7 @@ Config options coming soon.  Not currently needed for API key.
 
 ## Usage
 
-Say something like "Hey Mycroft, government bills for "state name". 
+Say something like "Hey Mycroft, government bills for "New York". 
  
 
 ## TODO
