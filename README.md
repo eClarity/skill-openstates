@@ -14,7 +14,7 @@ If on picroft just skip the workon part and the directory will be /opt/mycroft/s
 
 ```
 cd ~/.mycroft/skills
-
+git clone https://github.com/eClarity/skill-openstates.git
 workon mycroft
 cd skill-openstates
 pip install -r requirements.txt
